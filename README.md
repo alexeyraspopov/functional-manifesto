@@ -1,6 +1,6 @@
 # The Functional Manifesto
 
-Modern web libs and frameworks give us a lot of abstractions that *should* help us to develop systems. These abstractions create the issue of developer's communication: we are speaking on different languages while trying to do the same things and solve the same problems.
+Modern web libs and frameworks give us a lot of abstractions that *should* help us to develop systems. These abstractions create the issue of developer's communication: we are speaking on different languages while trying to do the same things and solve the same problems. That's why we need complete glossary.
 
 ***
 
